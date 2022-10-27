@@ -1,0 +1,27 @@
+body{
+    color: #222;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    background-color: #000;
+    color:aquamarine;
+    padding: 20px;
+
+}
+
+h2{
+    color:azure;
+}
+p{
+    color: #ccc;
+}
+
+p:hover{
+    background-color:darkblue;
+}
+/*
+body > div > p{
+    background-color: chartreuse;
+    color:darkblue;
+}*/
